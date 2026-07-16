@@ -1,0 +1,6 @@
+{
+  "name": "Idoso Seguro",
+  "description": "Guia de Direitos e Protocolo de Segurança da Pessoa Idosa (Polícia Civil de MS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
